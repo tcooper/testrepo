@@ -1,3 +1,3 @@
 # testrepo
 
-A repo for testing...
+A repo for testing... and demonstrating!
